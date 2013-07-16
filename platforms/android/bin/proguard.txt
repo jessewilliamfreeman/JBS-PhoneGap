@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:21
+-keep class com.JBS.Game.JBS_Game { <init>(...); }
+
